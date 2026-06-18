@@ -2,7 +2,9 @@
 
 ## 소통하고 성장하는 개발자 이상준입니다.
 
-<img src="여기에_이미지_주소를_넣어주세요" alt="contribution graph" width="100%">
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ongsaem0" alt="contribution graph" width="100%">
+</a>
 
 ## Education
 
