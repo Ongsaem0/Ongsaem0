@@ -7,7 +7,7 @@
 ## Education
 
 * 명지대학교 융합소프트웨어학과 졸업
-* 한화시스템 beyond sw camp 21th
+* 한화시스템 beyond sw camp 21th 수료
 
 ## Project
 
