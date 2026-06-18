@@ -4,8 +4,9 @@
 
 <a href="https://github.com/git-goods/gitanimals">
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ongsaem0&theme=juicy&column=4" alt="trophy" width="100%">
-</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" alt="coding cat" width="220">
+</p></p>
 </a>
 
 ## Education
