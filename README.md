@@ -3,7 +3,9 @@
 ## 소통하고 성장하는 개발자 이상준입니다.
 
 <a href="https://github.com/git-goods/gitanimals">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=소통하고%20성장하는%20개발자%20이상준&fontSize=32&animation=twinkling" width="100%">
+<p align="center">
+  ![trophy]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongsaem0&layout=compact&theme=buefy" alt="top langs" />
+</p>
 </a>
 
 ## Education
