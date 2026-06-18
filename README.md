@@ -12,7 +12,7 @@
 ## Project
 
 * `26.01 ~ 26.03` 효율적인 HR 인사관리시스템 'RHIGHT'
-* `26.05 ~ 26.06` 주부를 위한 가계부 'ACCOUNT'
+* `26.05 ~ ` 주부를 위한 가계부 'Joint Living'
 
 
 ## Tech Stack
