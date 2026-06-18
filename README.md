@@ -3,9 +3,7 @@
 ## 소통하고 성장하는 개발자 이상준입니다.
 
 <a href="https://github.com/git-goods/gitanimals">
-<p align="center">
-  ![trophy]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongsaem0&layout=compact&theme=buefy" alt="top langs" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ongsaem0&theme=juicy&column=4" alt="trophy" width="100%">
 </a>
 
 ## Education
