@@ -4,8 +4,7 @@
 
 <a href="https://github.com/git-goods/gitanimals">
   <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" alt="coding cat" width="220">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" alt="coding cat" width="220">
 </p></p>
 </a>
 
